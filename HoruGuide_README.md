@@ -1,7 +1,7 @@
 # Horu-AI-Assistant-in-Golang-
-An AI in Golang inspired by Jarvis (Python project);
+An AI in Golang inspired by Jarvis (Python Vocal Assistant);
 
-			* * * HORU_GUIDE_Alpha (0.1)* * *
+			* * HORU_GUIDE_Alpha (0.1) * *
 
 
 IT:
@@ -9,24 +9,24 @@ IT:
  Horu è attualmente in grado di:
 		
  - riprodurre un brano musicale;
- - leggere;
- - parlare in Morse;
- - Convertire un numero qualsiasi in binario;
+ - leggere file di testo come fossero libri o testi di canzoni;
+ - parlare e quindi convertire un testo in Morse;
+ - convertire un numero decimale qualsiasi in binario;
  - aggiornarti su ora e data locale;
- - interagire con frasi di conversazione base tra due individui;
+ - interagire con frasi di conversazione basilare;
+ - è provvisto di un sistema di GTTS ispirato a Jarvis (Python Vocal Assistant);
 		
- il materiale resta in continuo aggiornamento mio giovane Padowan;
+ il materiale è in continuo aggiornamento;
 
 
 EN:
 
-Horu is currently capable of:
+ Horu is currently able to:
 
  - play a piece of music;
- - to read;
- - speak in Morse;
- - Convert any number into binary;
+ - read text files as if they were books or song lyrics;
+ - speak and then convert a text in Morse;
+ - convert any decimal number into binary;
  - update you on local time and date;
- - interact with basic conversation phrases between two individuals;
-
- the material is constantly updated my young Padowan;
+ - interact with basic conversation phrases;
+ - comes with a Jarvis-inspired GTTS system (Python Vocal Assistant);
