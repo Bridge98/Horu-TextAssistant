@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------			
+
+			* * * HORU_GUIDE_Alpha * * *
+
+ Horu non possiede ancora le capacita' per eseguire questo tipo di richiesta,
+ per tanto ti ricordo cosa e' in grado di fare il nostro amico:
+		
+ - riprodurre un brano musicale;
+ - leggere;
+ - parlare in Morse;
+ - Convertire un numero qualsiasi in binario;
+ - aggiornarti su ora e data locale;
+ - interagire con frasi di conversazione base tra due individui;
+ - è abilitata una ricerca su google delle informazioni sconosciute ad Horu;
+
+		
+ il materiale resta in continuo aggiornamento;
+ attualmente Horu è disponibile solo per sistemi Linux e Windows;
+
+
+ Lorenzo Di Cola, Horu Team.
+
+-------------------------------------------------------------------------------		
