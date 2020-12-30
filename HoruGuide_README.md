@@ -30,3 +30,5 @@ EN:
  - update you on local time and date;
  - interact with basic conversation phrases;
  - comes with a Jarvis-inspired GTTS system (Python Vocal Assistant);
+ 
+ the material is constantly updated;
