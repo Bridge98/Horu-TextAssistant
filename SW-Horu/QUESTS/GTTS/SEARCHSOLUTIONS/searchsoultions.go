@@ -1,4 +1,6 @@
-// A GTTS made in Golang by Bridge98;
+// A GTTS made in Golang by Lorenzo Di Cola for Horu;
+// @Copyright to Bridge98;
+
 package searchsolutions
 
 import (
