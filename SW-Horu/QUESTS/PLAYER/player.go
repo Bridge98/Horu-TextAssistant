@@ -1,4 +1,6 @@
-// an auto mp3 player made in Golang by Bridge98;
+// an mp3 player implementation for Horu, made in Golang by Lorenzo Di Cola;
+// thanks to faiface project for the ispiration
+
 package player
 
 import (
