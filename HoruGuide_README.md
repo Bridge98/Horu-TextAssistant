@@ -1,10 +1,10 @@
 # Horu - Text Assistant
-## A text assistant made in Golang (Python Vocal Assistant);
+## A text assistant made in Golang;
 
 			* * HORU_Alpha (0.1) * *
 <hr>
 Horu is an inspired textual assistent made in Golang.
-I wanted to make something that could guide me through the world and the concept of AI and to better understand the humna-machine interation during my studies; 
+During my studies I decided to make something that could guide me through the world and the concept of AI and to better understand the human-machine interation; 
 the material is constantly updated by me and is quite simple to understand.
 <hr>
  
