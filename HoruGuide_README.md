@@ -1,5 +1,4 @@
 # Horu - Text Assistant
-<br>
 ## A textual assistent made in Golang (Python Vocal Assistant);
 
 			* * HORU_Alpha (0.1) * *
