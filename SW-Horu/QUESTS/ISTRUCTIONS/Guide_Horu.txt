@@ -13,11 +13,6 @@
  - interagire con frasi di conversazione base tra due individui;
  - è abilitata una ricerca su google delle informazioni sconosciute ad Horu;
 
-		
- il materiale resta in continuo aggiornamento;
- attualmente Horu è disponibile solo per sistemi Linux e Windows;
 
-
- Lorenzo Di Cola, Horu Team.
 
 -------------------------------------------------------------------------------		
